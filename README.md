@@ -1,0 +1,1 @@
+[![Node.js CI](https://github.com/IBFerraz/ai-driven-software-engineering/actions/workflows/ci.yml/badge.svg)](https://github.com/IBFerraz/ai-driven-software-engineering/actions/workflows/ci.yml)
